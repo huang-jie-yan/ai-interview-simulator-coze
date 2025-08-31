@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Design assets
+*.psd
+*.ai
+
+# Logs
+*.log
