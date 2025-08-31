@@ -51,4 +51,12 @@ It also serves as a personal exploration in **AI application design, implementat
 ## 🔮 后续改进方向 / Future Improvements
 - 增加更多面试官角色（压力面试 / 技术面试 / 友好面试官）  
 - 增加答题报告导出（PDF/Markdown）  
-- 引入更细粒度的岗位定制（如金融 / AI 产品 / 数据科学）  
+- 引入更细粒度的岗位定制（如金融 / AI 产品 / 数据科学）
+
+---
+
+## 🔒 Privacy
+
+For details on how data is handled in this project, please see the full [PRIVACY.md](PRIVACY.md).
+
+关于本项目的数据处理与隐私声明，请参见完整的 [PRIVACY.md](PRIVACY.md)。
